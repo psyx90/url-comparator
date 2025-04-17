@@ -54,10 +54,6 @@
     "win": {
       "target": "portable",
       "icon": "assets/icon.ico"
-    },
-    "mac": {
-      "target": "dmg",
-      "icon": "assets/icon.icns"
     }
   }
 }
