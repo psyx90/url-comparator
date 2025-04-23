@@ -1,7 +1,7 @@
 {
   "name": "psx-url-comparator",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "electron/main.js",
   "homepage": "https://pokrova.dev/url-comparator",
   "author": "Serhii Pokrova <spokrova@outlook.com>",
