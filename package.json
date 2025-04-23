@@ -1,8 +1,10 @@
 {
   "name": "psx-url-comparator",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "electron/main.js",
+  "homepage": "https://pokrova.dev/url-comparator",
+  "author": "Serhii Pokrova <spokrova@outlook.com>",
   "scripts": {
     "start": "vite",
     "build:react": "tsc -b && vite build",
